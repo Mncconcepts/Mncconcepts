@@ -3,8 +3,7 @@ I’m interested in working for clients,
 currently learning full stack web development
 I’m looking for collaboration on this space,
 I'm available on most trending social media plaforms,
-It is my pleasure meeting you indeed...
-Let's freaking go...
+It is my pleasure meeting you indeed.
 
 <!---
 Mncconcepts/Mncconcepts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
