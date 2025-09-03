@@ -1,1 +1,1 @@
-Web developer/designer,(based front end engineer)Graphic designer, with expertise in frontend frame work like  JAVASCRIPT, REACTJS, REACT NATIVE, HTML, CSS, BOOTSTRAP... Currently expanding my skills and network in backend technologies like , DJANGO, SQL, PYTHON.
+Web developer/designer,UIUX designer (based front end developer)with expertise in frontend frame work like  JAVASCRIPT, REACTJS, Nextjs, HTML, CSS, BOOTSTRAP, Tailwind css... Currently expanding my skills and network in backend technologies like , DJANGO, SQL, PYTHON.
